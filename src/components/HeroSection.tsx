@@ -27,12 +27,13 @@ CURSO DE PANDEIRO SUZANO EXPRESS</p>
             
             <div className="space-y-6">
               <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                <span className="text-foreground">Aprenda a criar seus próprios ritmos no pandeiro e surpreenda — mesmo que esteja </span>
-                <span className="text-primary">começando do zero.</span>
+                <span className="text-foreground"></span>
+                <span className="text-primary">Aprenda pandeiro em apenas 2 passos: 20 minutos por dia + Fazer todos os exercícios do módulo 0
+.</span>
                 
               </h2>
               
-              <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">Está cansado(a) de não ter ideias na hora de tocar pandeiro? Com nosso método exclusivo, você vai desbloquear seu potencial criativo e apresentar ritmos novos e empolgantes. Domine técnicas inovadoras e impressione a todos!</p>
+              
             </div>
             
             <div className="pt-8">
