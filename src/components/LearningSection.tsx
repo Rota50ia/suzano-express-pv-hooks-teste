@@ -23,7 +23,7 @@ export const LearningSection = () => {
             
             
             <Button variant="cta" size="xl" asChild>
-              <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pv">QUERO COMEÇAR AGORA</a>
+              <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pvtestehooks">QUERO COMEÇAR AGORA</a>
             </Button>
           </div>
         </div>
