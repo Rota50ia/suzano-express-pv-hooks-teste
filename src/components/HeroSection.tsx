@@ -28,8 +28,7 @@ CURSO DE PANDEIRO SUZANO EXPRESS</p>
             <div className="space-y-6">
               <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
                 <span className="text-foreground"></span>
-                <span className="text-primary">Aprenda pandeiro em apenas 2 passos: 20 minutos por dia + Fazer todos os exercícios do módulo 0
-.</span>
+                <span className="text-primary">Aprenda pandeiro em apenas 2 passos: 20 minutos por dia +  exercícios do módulo 0 .</span>
                 
               </h2>
               
