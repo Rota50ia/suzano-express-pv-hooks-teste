@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import garantiaImage from "@/assets/garantia.png";
 export const PricingSection = () => {
   const features = ["Técnica invertida exclusiva", "Coordenação entre mão direita e esquerda", "7 sons essenciais do pandeiro", "Ritmos como samba, maracatu, baião e mais", "Adaptação para tocar com cajón, congas", "Fluidez, controle e criatividade na sua forma de tocar"];
   return <section id="oferta" className="py-20 bg-background">
@@ -16,31 +17,49 @@ export const PricingSection = () => {
               </Badge>
               
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold">Plano PRO</h3>
+                <h3 className="text-xl font-semibold">Aprenda pandeiro com o maior mestre do Brasil por menos que uma pizza por mês.</h3>
                 
                 <div className="space-y-2">
                   <p className="text-lg">
-                    De <span className="line-through text-muted-foreground">R$ 397,00</span> por apenas:
+                    👉 Investimento único: <span className="text-primary font-bold">12x de R$22,70</span> (ou R$227 à vista no Pix)
                   </p>
-                  
-                  <div className="space-y-1">
-                    <div className="text-4xl md:text-5xl font-bold text-primary">12x de R$22,70</div>
-                    <p className="text-lg text-muted-foreground">Ou R$ 227 à vista no Pix</p>
-                  </div>
                 </div>
               </div>
               
               <div className="space-y-4">
-                {features.map((feature, index) => <div key={index} className="flex items-center space-x-3">
+                <p className="font-semibold">E mais:</p>
+                <div className="space-y-3">
+                  <div className="flex items-center space-x-3">
                     <div className="w-5 h-5 bg-primary rounded-full flex items-center justify-center flex-shrink-0">
                       <span className="text-primary-foreground text-xs font-bold">✓</span>
                     </div>
-                    <p className="font-medium">{feature}</p>
-                  </div>)}
+                    <p className="font-medium">Acesso por 2 anos completo.</p>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <div className="w-5 h-5 bg-primary rounded-full flex items-center justify-center flex-shrink-0">
+                      <span className="text-primary-foreground text-xs font-bold">✓</span>
+                    </div>
+                    <p className="font-medium">Técnica invertida exclusiva.</p>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <div className="w-5 h-5 bg-primary rounded-full flex items-center justify-center flex-shrink-0">
+                      <span className="text-primary-foreground text-xs font-bold">✓</span>
+                    </div>
+                    <p className="font-medium">Suporte no grupo fechado de alunos.</p>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <div className="w-5 h-5 bg-primary rounded-full flex items-center justify-center flex-shrink-0">
+                      <span className="text-primary-foreground text-xs font-bold">✓</span>
+                    </div>
+                    <p className="font-medium">Garantia incondicional de 15 dias.</p>
+                  </div>
+                </div>
+                
+                <p className="text-lg font-semibold text-primary">Custo real: menos de R$0,75 por dia pra tocar pandeiro com confiança.</p>
               </div>
               
               <Button variant="hero" size="xl" className="w-full" asChild>
-                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pvtestehooks">QUERO COMEÇAR AGORA</a>
+                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pvtestehooks">QUERO GARANTIR MINHA VAGA AGORA</a>
               </Button>
               
               <div className="flex items-center justify-center space-x-4 pt-4">
@@ -64,9 +83,7 @@ export const PricingSection = () => {
           
           <div className="text-center space-y-8">
             <div className="flex items-center justify-center space-x-4">
-              <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">15D</span>
-              </div>
+              <img src={garantiaImage} alt="Garantia incondicional de 15 dias" className="w-24 h-24" />
               <div className="text-left">
                 <h3 className="text-2xl font-bold">Garantia incondicional de 15 dias</h3>
               </div>
