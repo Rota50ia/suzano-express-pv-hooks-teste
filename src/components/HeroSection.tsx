@@ -13,26 +13,21 @@ export const HeroSection = () => {
           <div className="space-y-8 text-center lg:text-left">
             <div className="space-y-4">
               <p className="text-sm uppercase tracking-wide text-primary font-medium">
-
-
-
-CURSO DE PANDEIRO SUZANO EXPRESS</p>
+                CURSO DE PANDEIRO
+              </p>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                
-                <span className="text-primary">suzano express</span>
-                
+                <span className="text-primary">CURSO DE PANDEIRO</span>
               </h1>
-              
             </div>
             
             <div className="space-y-6">
               <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                <span className="text-foreground"></span>
-                <span className="text-primary">Aprenda pandeiro em apenas 2 passos: 20 minutos por dia +  exercícios do módulo 0 .</span>
-                
+                <span className="text-primary">Toque pandeiro sem passar vergonha – em apenas 30 dias</span>
               </h2>
               
-              
+              <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
+                Mesmo que nunca tenha encostado num instrumento, vou te mostrar o passo a passo prático que já fez +2.000 alunos saírem do zero e tocarem com confiança na frente dos amigos e da família
+              </p>
             </div>
             
             <div className="pt-8">
