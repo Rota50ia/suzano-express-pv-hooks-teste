@@ -12,11 +12,9 @@ export const HeroSection = () => {
           {/* Coluna da esquerda - Textos */}
           <div className="space-y-8 text-center lg:text-left">
             <div className="space-y-4">
-              <p className="text-sm uppercase tracking-wide text-primary font-medium">
-                CURSO DE PANDEIRO
-              </p>
+              <p className="text-sm uppercase tracking-wide text-primary font-medium">CURSO DE PANDEIRO SUZANO EXPRESS</p>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                <span className="text-primary">CURSO DE PANDEIRO</span>
+                
               </h1>
             </div>
             
