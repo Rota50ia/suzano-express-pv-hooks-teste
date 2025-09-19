@@ -34,6 +34,40 @@ export const LearningSection = () => {
                 <div className="text-sm text-muted-foreground">para primeira música</div>
               </div>
             </div>
+            
+            <div className="mt-12 max-w-2xl mx-auto">
+              <div className="bg-primary text-primary-foreground p-6 rounded-lg text-center mb-8">
+                <h2 className="text-2xl md:text-3xl font-bold mb-2">R$ 227 à vista</h2>
+                <p className="text-base mb-2">ou 12x de R$ 22,70</p>
+                <p className="text-sm">↳ Menos de R$ 0,75 por dia</p>
+              </div>
+              
+              <div className="text-left space-y-4">
+                <h3 className="text-xl font-bold text-foreground mb-4">O QUE VOCÊ RECEBE:</h3>
+                <div className="space-y-3">
+                  <div className="flex items-center gap-3">
+                    <span className="text-primary text-lg">✅</span>
+                    <span className="text-foreground">Acesso imediato ao curso completo</span>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <span className="text-primary text-lg">✅</span>
+                    <span className="text-foreground">2 anos de acesso ilimitado</span>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <span className="text-primary text-lg">✅</span>
+                    <span className="text-foreground">Grupo exclusivo no WhatsApp</span>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <span className="text-primary text-lg">✅</span>
+                    <span className="text-foreground">Suporte direto com instrutores</span>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <span className="text-primary text-lg">✅</span>
+                    <span className="text-foreground">Atualizações gratuitas</span>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
