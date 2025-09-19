@@ -5,9 +5,7 @@ export const Footer = () => {
         <div className="max-w-6xl mx-auto space-y-8">
           {/* Disclaimer */}
           <div className="text-center">
-            <p className="text-sm text-muted-foreground leading-relaxed max-w-4xl mx-auto">
-              A <span className="font-bold">Comunidade suzano express</span> não é uma empresa associada ao WhatsApp INC, Facebook INC, META ou qualquer uma de suas empresas, e não possui relação comercial ou consentimento para uso.
-            </p>
+            
           </div>
           
           <div className="text-center">
