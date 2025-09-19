@@ -8,9 +8,8 @@ export const HeroSection = () => {
       <div className="absolute inset-0 bg-gradient-hero" />
       
       <div className="relative z-10 container mx-auto px-4">
-        <div className="grid lg:grid-cols-2 gap-12 items-center">
-          {/* Coluna da esquerda - Textos */}
-          <div className="space-y-8 text-center lg:text-left">
+        <div className="max-w-4xl mx-auto text-center">
+          <div className="space-y-8">
             <div className="space-y-4">
               <p className="text-sm uppercase tracking-wide text-primary font-medium">CURSO DE PANDEIRO SUZANO EXPRESS</p>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold leading-tight">
@@ -57,13 +56,6 @@ export const HeroSection = () => {
               <Button variant="hero" size="xl" className="mb-8" asChild>
                 <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pvtestehooks">QUERO COMEÇAR AGORA</a>
               </Button>
-            </div>
-          </div>
-
-          {/* Coluna da direita - Vídeo */}
-          <div className="flex justify-center">
-            <div className="w-full max-w-lg aspect-video rounded-lg overflow-hidden shadow-2xl">
-              <iframe src="https://www.youtube.com/embed/CyIMCbUdjf4" title="Curso de Pandeiro Suzano Express" className="w-full h-full" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
             </div>
           </div>
         </div>
