@@ -38,7 +38,7 @@ export const HeroSection = () => {
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
-                    <span className="text-card-foreground"><strong className="text-primary">Acesso imediato aos 3 ritmos</strong> que funcionam em 90% das músicas</span>
+                    <span className="text-card-foreground text-xl"><strong className="text-primary">Acesso imediato aos 3 ritmos</strong> que funcionam em 90% das músicas</span>
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
