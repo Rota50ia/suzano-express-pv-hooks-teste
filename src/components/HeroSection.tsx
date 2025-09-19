@@ -42,7 +42,7 @@ export const HeroSection = () => {
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
-                    <span className="text-card-foreground"><strong className="text-primary">Suporte direto</strong> no grupo de alunos que já estão tocando</span>
+                    <span className="text-card-foreground text-xl"><strong className="text-primary">Suporte direto</strong> no grupo de alunos que já estão tocando</span>
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
