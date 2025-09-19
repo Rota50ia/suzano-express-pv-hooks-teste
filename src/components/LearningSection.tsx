@@ -67,6 +67,15 @@ export const LearningSection = () => {
                   </div>
                 </div>
               </div>
+              
+              <div className="text-center mt-8">
+                <button className="bg-orange-500 hover:bg-orange-600 text-white border-none py-5 px-10 text-lg rounded-lg cursor-pointer font-bold transition-colors">
+                  QUERO TOCAR MINHA PRIMEIRA MÚSICA EM 7 DIAS
+                </button>
+                <p className="text-sm mt-3 text-muted-foreground">
+                  ↳ Você será redirecionado para a página de checkout seguro
+                </p>
+              </div>
             </div>
           </div>
         </div>
