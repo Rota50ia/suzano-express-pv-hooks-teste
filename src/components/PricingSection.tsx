@@ -81,30 +81,11 @@ export const PricingSection = () => {
             
           </div>
           
-          <div className="text-center space-y-8">
-            <div className="flex items-center justify-center space-x-4">
-              <img src={garantiaImage} alt="Garantia incondicional de 15 dias" className="w-24 h-24" />
-              <div className="text-left">
-                <h3 className="text-2xl font-bold">Garantia incondicional de 15 dias</h3>
-              </div>
-            </div>
-            
-            <div className="space-y-6 max-w-4xl mx-auto">
-              <p className="text-xl font-semibold text-center">
-                Você está protegido pela nossa<br />
-                <span className="text-primary">★ Garantia Incondicional de Satisfação ★</span>
-              </p>
-              
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Ao se inscrever hoje, seu risco é zero, pois você conta com a garantia total e incondicional de satisfação do Suzano Express.
-              </p>
-              
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Se você não ficar satisfeito com o método, basta nos enviar um e-mail dentro de 15 dias e devolveremos 100% do seu dinheiro — sem perguntas.
-              </p>
-              
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Acreditamos que não vamos chegar a esse ponto, mas, se você realmente estiver em dúvida se isso vai funcionar para você ou não, fique tranquilo: você tem garantia.
+          <div className="text-center">
+            <div className="bg-yellow-50 border-2 border-yellow-200 p-5 rounded-lg my-5 max-w-4xl mx-auto">
+              <h3 className="text-yellow-800 text-xl font-bold mb-4 m-0">⭐ GARANTIA INCONDICIONAL DE 15 DIAS ⭐</h3>
+              <p className="text-yellow-800 m-0">
+                <strong>Experimente por 15 dias.</strong> Se você não tocar sua primeira música completa, envie um e-mail para <strong>edilsomdil@gmail.com</strong> e devolvemos 100% do seu dinheiro - <strong>sem perguntas, sem complicação.</strong>
               </p>
             </div>
           </div>
