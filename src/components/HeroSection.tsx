@@ -34,7 +34,7 @@ export const HeroSection = () => {
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
-                    <span className="text-card-foreground"><strong className="text-primary">Sem partitura, sem teoria chata</strong> - Só o essencial que funciona</span>
+                    <span className="text-card-foreground text-xl"><strong className="text-primary">Sem partitura, sem teoria chata</strong> - Só o essencial que funciona</span>
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
