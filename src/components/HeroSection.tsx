@@ -27,27 +27,27 @@ export const HeroSection = () => {
                 Método comprovado para iniciantes absolutos que querem resultados rápidos, não teoria complicada
               </p>
               
-              <div className="bg-slate-50 dark:bg-slate-800/50 p-5 rounded-lg my-5">
-                <div className="space-y-2 text-left">
-                  <div className="flex items-start gap-2">
-                    <span className="text-green-600 font-bold">✓</span>
-                    <span><strong>Toque sua primeira música completa em 7 dias</strong> - Não apenas "exercícios"</span>
+              <div className="bg-card/50 border border-border/50 p-6 rounded-lg my-6 backdrop-blur-sm">
+                <div className="space-y-3 text-left">
+                  <div className="flex items-start gap-3">
+                    <span className="text-primary font-bold text-lg">✓</span>
+                    <span className="text-card-foreground"><strong className="text-primary">Toque sua primeira música completa em 7 dias</strong> - Não apenas "exercícios"</span>
                   </div>
-                  <div className="flex items-start gap-2">
-                    <span className="text-green-600 font-bold">✓</span>
-                    <span><strong>Sem partitura, sem teoria chata</strong> - Só o essencial que funciona</span>
+                  <div className="flex items-start gap-3">
+                    <span className="text-primary font-bold text-lg">✓</span>
+                    <span className="text-card-foreground"><strong className="text-primary">Sem partitura, sem teoria chata</strong> - Só o essencial que funciona</span>
                   </div>
-                  <div className="flex items-start gap-2">
-                    <span className="text-green-600 font-bold">✓</span>
-                    <span><strong>Acesso imediato aos 3 ritmos</strong> que funcionam em 90% das músicas</span>
+                  <div className="flex items-start gap-3">
+                    <span className="text-primary font-bold text-lg">✓</span>
+                    <span className="text-card-foreground"><strong className="text-primary">Acesso imediato aos 3 ritmos</strong> que funcionam em 90% das músicas</span>
                   </div>
-                  <div className="flex items-start gap-2">
-                    <span className="text-green-600 font-bold">✓</span>
-                    <span><strong>Suporte direto</strong> no grupo de alunos que já estão tocando</span>
+                  <div className="flex items-start gap-3">
+                    <span className="text-primary font-bold text-lg">✓</span>
+                    <span className="text-card-foreground"><strong className="text-primary">Suporte direto</strong> no grupo de alunos que já estão tocando</span>
                   </div>
-                  <div className="flex items-start gap-2">
-                    <span className="text-green-600 font-bold">✓</span>
-                    <span><strong>Método passo a passo</strong> validado por 2.837 alunos</span>
+                  <div className="flex items-start gap-3">
+                    <span className="text-primary font-bold text-lg">✓</span>
+                    <span className="text-card-foreground"><strong className="text-primary">Método passo a passo</strong> validado por 2.837 alunos</span>
                   </div>
                 </div>
               </div>
