@@ -20,21 +20,5 @@ export const MethodSection = () => {
     title: "Escala:",
     description: "Monte um plano de estudo contínuo com base no método Suzano Express e siga evoluindo com clareza, foco e propósito."
   }];
-  return (
-    <section className="py-20 bg-card">
-      <div className="container mx-auto px-4">
-        <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl font-bold text-center mb-16 text-primary">Método Suzano Express</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {methodSteps.map((step, index) => (
-              <Card key={index} className="p-6 text-center">
-                <h3 className="text-xl font-bold mb-4 text-primary">{step.title}</h3>
-                <p className="text-muted-foreground">{step.description}</p>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </div>
-    </section>
-  );
+  return;
 };
