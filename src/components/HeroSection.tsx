@@ -26,6 +26,31 @@ export const HeroSection = () => {
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
                 Método comprovado para iniciantes absolutos que querem resultados rápidos, não teoria complicada
               </p>
+              
+              <div className="bg-slate-50 dark:bg-slate-800/50 p-5 rounded-lg my-5">
+                <div className="space-y-2 text-left">
+                  <div className="flex items-start gap-2">
+                    <span className="text-green-600 font-bold">✓</span>
+                    <span><strong>Toque sua primeira música completa em 7 dias</strong> - Não apenas "exercícios"</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-green-600 font-bold">✓</span>
+                    <span><strong>Sem partitura, sem teoria chata</strong> - Só o essencial que funciona</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-green-600 font-bold">✓</span>
+                    <span><strong>Acesso imediato aos 3 ritmos</strong> que funcionam em 90% das músicas</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-green-600 font-bold">✓</span>
+                    <span><strong>Suporte direto</strong> no grupo de alunos que já estão tocando</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-green-600 font-bold">✓</span>
+                    <span><strong>Método passo a passo</strong> validado por 2.837 alunos</span>
+                  </div>
+                </div>
+              </div>
             </div>
             
             <div className="pt-8">
