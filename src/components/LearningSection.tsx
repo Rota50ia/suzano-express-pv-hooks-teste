@@ -69,9 +69,9 @@ export const LearningSection = () => {
               </div>
               
               <div className="text-center mt-8">
-                <button className="bg-orange-500 hover:bg-orange-600 text-white border-none py-5 px-10 text-lg rounded-lg cursor-pointer font-bold transition-colors">
+                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pvtestehooks" className="bg-orange-500 hover:bg-orange-600 text-white border-none py-5 px-10 text-lg rounded-lg cursor-pointer font-bold transition-colors inline-block text-center">
                   QUERO TOCAR MINHA PRIMEIRA MÚSICA EM 7 DIAS
-                </button>
+                </a>
                 <p className="text-sm mt-3 text-muted-foreground">
                   ↳ Você será redirecionado para a página de checkout seguro
                 </p>

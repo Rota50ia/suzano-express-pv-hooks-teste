@@ -19,7 +19,7 @@ export const Footer = () => {
             <h3 className="text-2xl font-bold text-primary">suzano express</h3>
             
             <div className="flex justify-center items-center space-x-4 text-sm">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-smooth">
+              <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pvtestehooks" className="text-muted-foreground hover:text-primary transition-smooth">
                 Termos de Uso
               </a>
               <span className="text-muted-foreground">|</span>
