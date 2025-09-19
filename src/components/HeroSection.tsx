@@ -46,7 +46,7 @@ export const HeroSection = () => {
                   </div>
                   <div className="flex items-start gap-3">
                     <span className="text-primary font-bold text-lg">✓</span>
-                    <span className="text-card-foreground"><strong className="text-primary">Método passo a passo</strong> validado por 2.837 alunos</span>
+                    <span className="text-card-foreground text-xl"><strong className="text-primary">Método passo a passo</strong> validado por 2.837 alunos</span>
                   </div>
                 </div>
               </div>
