@@ -21,5 +21,5 @@ export const WhyJoinSection = () => {
     text: "Precisa de uma comunidade ativa, suporte real e um mestre com reconhecimento mundial."
   }];
   const targetAudience = ["Quer aprender na prática, sem enrolação ou termos técnicos confusos", "É músico profissional ou amador, que já toca Percussão ou Pandeiro, porém ainda se sente um pouco limitado na parte técnica ou dos grooves", "Quer aumentar — e muito — o seu repertório de grooves, ou quer aprender pandeiro para tocar com os amigos ou na igreja", "É iniciante mas se compromete a estudar e quer aprender o método adequado desde o início"];
-  return;
+  return <div></div>;
 };

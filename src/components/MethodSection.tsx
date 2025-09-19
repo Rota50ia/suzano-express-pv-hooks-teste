@@ -20,5 +20,5 @@ export const MethodSection = () => {
     title: "Escala:",
     description: "Monte um plano de estudo contínuo com base no método Suzano Express e siga evoluindo com clareza, foco e propósito."
   }];
-  return;
+  return <div></div>;
 };
