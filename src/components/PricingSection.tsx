@@ -83,7 +83,7 @@ export const PricingSection = () => {
           
           <div className="text-center">
             <div className="border-2 border-yellow-200 p-5 rounded-lg my-5 max-w-4xl mx-auto bg-amber-500">
-              <h3 className="text-yellow-800 text-xl font-bold mb-4 m-0">⭐ GARANTIA INCONDICIONAL DE 15 DIAS ⭐</h3>
+              <h3 className="font-bold mb-4 m-0 text-zinc-950 text-2xl">⭐ GARANTIA INCONDICIONAL DE 15 DIAS ⭐</h3>
               <p className="m-0 text-slate-950 text-xl">
                 <strong>Experimente por 15 dias.</strong> Se você não tocar sua primeira música completa, envie um e-mail para <strong>edilsomdil@gmail.com</strong> e devolvemos 100% do seu dinheiro - <strong>sem perguntas, sem complicação.</strong>
               </p>
