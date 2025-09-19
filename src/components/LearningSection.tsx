@@ -14,9 +14,7 @@ export const LearningSection = () => {
           </div>
           
           <div className="mt-16 text-center space-y-8">
-            <h3 className="text-2xl md:text-3xl font-bold text-foreground">
-              Join 2.837 alunos que saíram do zero e agora tocam com confiança
-            </h3>
+            <h3 className="text-2xl md:text-3xl font-bold text-foreground">Junte-se aos 2.837 alunos que saíram do zero e agora tocam com confiança</h3>
             
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
               <div className="bg-card border border-border p-6 rounded-lg text-center">
