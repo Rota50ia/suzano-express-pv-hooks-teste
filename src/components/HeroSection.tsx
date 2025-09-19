@@ -20,11 +20,11 @@ export const HeroSection = () => {
             
             <div className="space-y-6">
               <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                <span className="text-primary">Toque pandeiro sem passar vergonha – em apenas 30 dias</span>
+                <span className="text-primary">Pare de Passar Vergonha com o Pandeiro - Toque 3 Músicas em 7 Dias</span>
               </h2>
               
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-                Mesmo que nunca tenha encostado num instrumento, vou te mostrar o passo a passo prático que já fez +2.000 alunos saírem do zero e tocarem com confiança na frente dos amigos e da família
+                Método comprovado para iniciantes absolutos que querem resultados rápidos, não teoria complicada
               </p>
             </div>
             
