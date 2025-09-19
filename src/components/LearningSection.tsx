@@ -36,7 +36,7 @@ export const LearningSection = () => {
             </div>
             
             <div className="mt-12 max-w-2xl mx-auto">
-              <div className="text-primary-foreground p-6 rounded-lg text-center mb-8 bg-indigo-800">
+              <div className="text-primary-foreground p-6 rounded-lg text-center mb-8 bg-blue-500">
                 <h2 className="text-2xl font-bold mb-2 text-slate-50 md:text-4xl">R$ 227 à vista</h2>
                 <p className="mb-2 text-slate-50 text-3xl">ou 12x de R$ 22,70</p>
                 <p className="text-slate-50 text-3xl">↳ Menos de R$ 0,75 por dia</p>
